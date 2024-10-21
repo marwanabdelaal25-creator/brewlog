@@ -1,0 +1,1370 @@
+{
+  "schema_version": 2,
+  "meta": {
+    "name": "persona-latte_home",
+    "persona": "dark_roast_shelf"
+  },
+  "beans": [
+    {
+      "id": "bn-2021-000000",
+      "name": "Peak Sumatra #0",
+      "origin_key": "rwanda-bourbon",
+      "station_id": "st-grinder-zone",
+      "brew_interval_days": 1,
+      "last_brewed": "2021-06-22",
+      "roast_date": "2021-06-21",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-3",
+        "tag-5"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2025-000001",
+      "name": "Fresh Ethiopia Yirg #1",
+      "origin_key": "sumatra",
+      "station_id": "st-freezer",
+      "brew_interval_days": 1,
+      "last_brewed": "2025-01-27",
+      "roast_date": "2025-01-24",
+      "dose_g": 15,
+      "tag_ids": [],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2022-000002",
+      "name": "Peak Sumatra #2",
+      "origin_key": "guatemala-antigua",
+      "station_id": "st-freezer",
+      "brew_interval_days": 5,
+      "last_brewed": "2022-06-06",
+      "roast_date": "2022-05-24",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-11"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2021-000003",
+      "name": "Backup Decaf Swiss #3",
+      "origin_key": "guatemala-antigua",
+      "station_id": "st-freezer",
+      "brew_interval_days": 3,
+      "last_brewed": "2021-08-09",
+      "roast_date": "2021-08-03",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-6"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2020-000004",
+      "name": "Resting Kenya Aa #4",
+      "origin_key": "ethiopia-yirg",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 1,
+      "last_brewed": "2020-01-25",
+      "roast_date": "2020-01-25",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-4",
+        "tag-9"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2020-000005",
+      "name": "Old Kenya Aa #5",
+      "origin_key": "decaf-swiss",
+      "station_id": "st-counter",
+      "brew_interval_days": 3,
+      "last_brewed": "2020-02-25",
+      "roast_date": "2020-02-24",
+      "dose_g": 20,
+      "tag_ids": [
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2020-000006",
+      "name": "Fresh Ethiopia Yirg #6",
+      "origin_key": "sumatra",
+      "station_id": "st-shelf-a",
+      "brew_interval_days": 5,
+      "last_brewed": "2020-09-20",
+      "roast_date": "2020-09-05",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-3"
+      ],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2020-000007",
+      "name": "Backup Colombia Huila #7",
+      "origin_key": "decaf-swiss",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 3,
+      "last_brewed": "2020-03-09",
+      "roast_date": "2020-02-27",
+      "dose_g": 18,
+      "tag_ids": [
+        "tag-10",
+        "tag-2"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2024-000008",
+      "name": "Sample Brazil Santos #8",
+      "origin_key": "panama-geisha",
+      "station_id": "st-grinder-zone",
+      "brew_interval_days": 3,
+      "last_brewed": "2024-02-24",
+      "roast_date": "2024-02-20",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-11",
+        "tag-7"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2022-000009",
+      "name": "Sample Rwanda Bourbon #9",
+      "origin_key": "rwanda-bourbon",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 2,
+      "last_brewed": "2022-02-21",
+      "roast_date": "2022-02-17",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-6",
+        "tag-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2025-000010",
+      "name": "Peak Brazil Santos #10",
+      "origin_key": "brazil-santos",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 7,
+      "last_brewed": "2025-09-03",
+      "roast_date": "2025-08-10",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-11",
+        "tag-12"
+      ],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2020-000011",
+      "name": "Sample Decaf Swiss #11",
+      "origin_key": "brazil-santos",
+      "station_id": "st-freezer",
+      "brew_interval_days": 3,
+      "last_brewed": "2020-06-12",
+      "roast_date": "2020-06-11",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-8"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2020-000012",
+      "name": "Backup Costa Rica #12",
+      "origin_key": "kenya-aa",
+      "station_id": "st-shelf-a",
+      "brew_interval_days": 5,
+      "last_brewed": "2020-03-12",
+      "roast_date": "2020-03-02",
+      "dose_g": 12,
+      "tag_ids": [],
+      "notes": ""
+    },
+    {
+      "id": "bn-2021-000013",
+      "name": "Backup Kenya Aa #13",
+      "origin_key": "panama-geisha",
+      "station_id": "st-grinder-zone",
+      "brew_interval_days": 2,
+      "last_brewed": "2021-03-25",
+      "roast_date": "2021-03-22",
+      "dose_g": 20,
+      "tag_ids": [],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2021-000014",
+      "name": "Backup Ethiopia Yirg #14",
+      "origin_key": "colombia-huila",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 1,
+      "last_brewed": "2021-02-08",
+      "roast_date": "2021-02-07",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-7",
+        "tag-10"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2025-000015",
+      "name": "Peak Ethiopia Yirg #15",
+      "origin_key": "brazil-santos",
+      "station_id": "st-counter",
+      "brew_interval_days": 1,
+      "last_brewed": "2025-05-23",
+      "roast_date": "2025-05-23",
+      "dose_g": 20,
+      "tag_ids": [
+        "tag-8"
+      ],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2023-000016",
+      "name": "Sample Kenya Aa #16",
+      "origin_key": "ethiopia-yirg",
+      "station_id": "st-counter",
+      "brew_interval_days": 1,
+      "last_brewed": "2023-04-25",
+      "roast_date": "2023-04-24",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-3"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2024-000017",
+      "name": "Peak Brazil Santos #17",
+      "origin_key": "brazil-santos",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 5,
+      "last_brewed": "2024-02-22",
+      "roast_date": "2024-02-07",
+      "dose_g": 18,
+      "tag_ids": [
+        "tag-4",
+        "tag-2"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2025-000018",
+      "name": "Fresh Costa Rica #18",
+      "origin_key": "costa-rica",
+      "station_id": "st-freezer",
+      "brew_interval_days": 2,
+      "last_brewed": "2025-05-27",
+      "roast_date": "2025-05-23",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-1",
+        "tag-7"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2022-000019",
+      "name": "Backup Ethiopia Yirg #19",
+      "origin_key": "sumatra",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 3,
+      "last_brewed": "2022-08-06",
+      "roast_date": "2022-08-04",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-5"
+      ],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2021-000020",
+      "name": "Resting Costa Rica #20",
+      "origin_key": "rwanda-bourbon",
+      "station_id": "st-counter",
+      "brew_interval_days": 5,
+      "last_brewed": "2021-01-26",
+      "roast_date": "2021-01-16",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-2",
+        "tag-12"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2021-000021",
+      "name": "Old Sumatra #21",
+      "origin_key": "rwanda-bourbon",
+      "station_id": "st-pour-over-desk",
+      "brew_interval_days": 7,
+      "last_brewed": "2021-11-08",
+      "roast_date": "2021-11-03",
+      "dose_g": 18,
+      "tag_ids": [
+        "tag-4",
+        "tag-9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2022-000022",
+      "name": "Fresh Brazil Santos #22",
+      "origin_key": "costa-rica",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 7,
+      "last_brewed": "2022-04-21",
+      "roast_date": "2022-04-15",
+      "dose_g": 18,
+      "tag_ids": [],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2023-000023",
+      "name": "Fresh Colombia Huila #23",
+      "origin_key": "colombia-huila",
+      "station_id": "st-counter",
+      "brew_interval_days": 3,
+      "last_brewed": "2023-07-09",
+      "roast_date": "2023-07-05",
+      "dose_g": 20,
+      "tag_ids": [
+        "tag-7"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2021-000024",
+      "name": "Old Decaf Swiss #24",
+      "origin_key": "panama-geisha",
+      "station_id": "st-pour-over-desk",
+      "brew_interval_days": 7,
+      "last_brewed": "2021-03-18",
+      "roast_date": "2021-02-28",
+      "dose_g": 20,
+      "tag_ids": [],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2020-000025",
+      "name": "Backup Kenya Aa #25",
+      "origin_key": "sumatra",
+      "station_id": "st-counter",
+      "brew_interval_days": 3,
+      "last_brewed": "2020-09-03",
+      "roast_date": "2020-08-22",
+      "dose_g": 15,
+      "tag_ids": [],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2022-000026",
+      "name": "Backup Panama Geisha #26",
+      "origin_key": "sumatra",
+      "station_id": "st-shelf-a",
+      "brew_interval_days": 2,
+      "last_brewed": "2022-04-30",
+      "roast_date": "2022-04-28",
+      "dose_g": 20,
+      "tag_ids": [
+        "tag-2",
+        "tag-5"
+      ],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2021-000027",
+      "name": "Sample Sumatra #27",
+      "origin_key": "kenya-aa",
+      "station_id": "st-freezer",
+      "brew_interval_days": 7,
+      "last_brewed": "2021-08-16",
+      "roast_date": "2021-08-15",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-2"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2024-000028",
+      "name": "Peak Costa Rica #28",
+      "origin_key": "costa-rica",
+      "station_id": "st-pour-over-desk",
+      "brew_interval_days": 1,
+      "last_brewed": "2024-02-15",
+      "roast_date": "2024-02-12",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-6"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2024-000029",
+      "name": "Resting Guatemala Antigua #29",
+      "origin_key": "costa-rica",
+      "station_id": "st-espresso-bar",
+      "brew_interval_days": 5,
+      "last_brewed": "2024-04-15",
+      "roast_date": "2024-03-26",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-12"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2020-000030",
+      "name": "Resting Panama Geisha #30",
+      "origin_key": "sumatra",
+      "station_id": "st-grinder-zone",
+      "brew_interval_days": 7,
+      "last_brewed": "2020-05-04",
+      "roast_date": "2020-05-01",
+      "dose_g": 15,
+      "tag_ids": [
+        "tag-1",
+        "tag-12"
+      ],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2020-000031",
+      "name": "Old Costa Rica #31",
+      "origin_key": "colombia-huila",
+      "station_id": "st-shelf-a",
+      "brew_interval_days": 7,
+      "last_brewed": "2020-02-19",
+      "roast_date": "2020-02-07",
+      "dose_g": 12,
+      "tag_ids": [
+        "tag-1"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2024-000032",
+      "name": "Sample Decaf Swiss #32",
+      "origin_key": "panama-geisha",
+      "station_id": "st-grinder-zone",
+      "brew_interval_days": 7,
+      "last_brewed": "2024-11-01",
+      "roast_date": "2024-10-24",
+      "dose_g": 20,
+      "tag_ids": [],
+      "notes": "freezer stash"
+    },
+    {
+      "id": "bn-2020-000033",
+      "name": "Peak Guatemala Antigua #33",
+      "origin_key": "sumatra",
+      "station_id": "st-freezer",
+      "brew_interval_days": 2,
+      "last_brewed": "2020-07-31",
+      "roast_date": "2020-07-24",
+      "dose_g": 18,
+      "tag_ids": [],
+      "notes": ""
+    }
+  ],
+  "origins": [
+    {
+      "key": "ethiopia-yirg",
+      "name": "Ethiopia Yirg"
+    },
+    {
+      "key": "kenya-aa",
+      "name": "Kenya Aa"
+    },
+    {
+      "key": "colombia-huila",
+      "name": "Colombia Huila"
+    },
+    {
+      "key": "guatemala-antigua",
+      "name": "Guatemala Antigua"
+    },
+    {
+      "key": "brazil-santos",
+      "name": "Brazil Santos"
+    },
+    {
+      "key": "costa-rica",
+      "name": "Costa Rica"
+    },
+    {
+      "key": "sumatra",
+      "name": "Sumatra"
+    },
+    {
+      "key": "rwanda-bourbon",
+      "name": "Rwanda Bourbon"
+    },
+    {
+      "key": "panama-geisha",
+      "name": "Panama Geisha"
+    },
+    {
+      "key": "decaf-swiss",
+      "name": "Decaf Swiss"
+    }
+  ],
+  "stations": [
+    {
+      "id": "st-counter",
+      "name": "counter"
+    },
+    {
+      "id": "st-shelf-a",
+      "name": "shelf-a"
+    },
+    {
+      "id": "st-freezer",
+      "name": "freezer"
+    },
+    {
+      "id": "st-grinder-zone",
+      "name": "grinder-zone"
+    },
+    {
+      "id": "st-espresso-bar",
+      "name": "espresso-bar"
+    },
+    {
+      "id": "st-pour-over-desk",
+      "name": "pour-over-desk"
+    }
+  ],
+  "brew_events": [
+    {
+      "id": "br-136699",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-21",
+      "method": "espresso",
+      "dose_g": 20,
+      "yield_g": 288
+    },
+    {
+      "id": "br-445956",
+      "bean_id": "bn-2024-000029",
+      "brewed_at": "2024-04-03",
+      "method": "v60",
+      "dose_g": 15,
+      "yield_g": 215
+    },
+    {
+      "id": "br-554110",
+      "bean_id": "bn-2023-000016",
+      "brewed_at": "2023-04-02",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 283
+    },
+    {
+      "id": "br-174938",
+      "bean_id": "bn-2021-000024",
+      "brewed_at": "2021-03-14",
+      "method": "v60",
+      "dose_g": 20,
+      "yield_g": 309
+    },
+    {
+      "id": "br-307827",
+      "bean_id": "bn-2021-000003",
+      "brewed_at": "2021-07-21",
+      "method": "french_press",
+      "dose_g": 12,
+      "yield_g": 314
+    },
+    {
+      "id": "br-113288",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-09-02",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 231
+    },
+    {
+      "id": "br-934061",
+      "bean_id": "bn-2021-000021",
+      "brewed_at": "2021-11-04",
+      "method": "espresso",
+      "dose_g": 18,
+      "yield_g": 215
+    },
+    {
+      "id": "br-212219",
+      "bean_id": "bn-2021-000013",
+      "brewed_at": "2021-03-24",
+      "method": "chemex",
+      "dose_g": 20,
+      "yield_g": 255
+    },
+    {
+      "id": "br-429635",
+      "bean_id": "bn-2022-000019",
+      "brewed_at": "2022-07-26",
+      "method": "espresso",
+      "dose_g": 15,
+      "yield_g": 205
+    },
+    {
+      "id": "br-890504",
+      "bean_id": "bn-2025-000018",
+      "brewed_at": "2025-05-19",
+      "method": "aeropress",
+      "dose_g": 12,
+      "yield_g": 206
+    },
+    {
+      "id": "br-087249",
+      "bean_id": "bn-2021-000003",
+      "brewed_at": "2021-07-14",
+      "method": "aeropress",
+      "dose_g": 12,
+      "yield_g": 209
+    },
+    {
+      "id": "br-456122",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-13",
+      "method": "v60",
+      "dose_g": 20,
+      "yield_g": 219
+    },
+    {
+      "id": "br-016840",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-02-05",
+      "method": "french_press",
+      "dose_g": 15,
+      "yield_g": 225
+    },
+    {
+      "id": "br-969266",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-08-05",
+      "method": "aeropress",
+      "dose_g": 15,
+      "yield_g": 213
+    },
+    {
+      "id": "br-394769",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-02-09",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 303
+    },
+    {
+      "id": "br-704697",
+      "bean_id": "bn-2021-000024",
+      "brewed_at": "2021-02-18",
+      "method": "aeropress",
+      "dose_g": 20,
+      "yield_g": 259
+    },
+    {
+      "id": "br-507477",
+      "bean_id": "bn-2020-000030",
+      "brewed_at": "2020-04-20",
+      "method": "espresso",
+      "dose_g": 15,
+      "yield_g": 214
+    },
+    {
+      "id": "br-980343",
+      "bean_id": "bn-2021-000014",
+      "brewed_at": "2021-01-25",
+      "method": "french_press",
+      "dose_g": 15,
+      "yield_g": 219
+    },
+    {
+      "id": "br-774749",
+      "bean_id": "bn-2021-000003",
+      "brewed_at": "2021-08-02",
+      "method": "espresso",
+      "dose_g": 12,
+      "yield_g": 292
+    },
+    {
+      "id": "br-705022",
+      "bean_id": "bn-2025-000010",
+      "brewed_at": "2025-08-24",
+      "method": "french_press",
+      "dose_g": 12,
+      "yield_g": 283
+    },
+    {
+      "id": "br-783467",
+      "bean_id": "bn-2021-000003",
+      "brewed_at": "2021-08-08",
+      "method": "french_press",
+      "dose_g": 12,
+      "yield_g": 296
+    },
+    {
+      "id": "br-633992",
+      "bean_id": "bn-2020-000033",
+      "brewed_at": "2020-07-08",
+      "method": "chemex",
+      "dose_g": 18,
+      "yield_g": 200
+    },
+    {
+      "id": "br-647490",
+      "bean_id": "bn-2024-000017",
+      "brewed_at": "2024-02-20",
+      "method": "espresso",
+      "dose_g": 18,
+      "yield_g": 298
+    },
+    {
+      "id": "br-533900",
+      "bean_id": "bn-2024-000028",
+      "brewed_at": "2024-01-22",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 201
+    },
+    {
+      "id": "br-935691",
+      "bean_id": "bn-2020-000031",
+      "brewed_at": "2020-02-03",
+      "method": "chemex",
+      "dose_g": 12,
+      "yield_g": 234
+    },
+    {
+      "id": "br-677014",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-05-07",
+      "method": "v60",
+      "dose_g": 20,
+      "yield_g": 222
+    },
+    {
+      "id": "br-141940",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-05-19",
+      "method": "v60",
+      "dose_g": 20,
+      "yield_g": 222
+    },
+    {
+      "id": "br-297590",
+      "bean_id": "bn-2022-000002",
+      "brewed_at": "2022-05-30",
+      "method": "chemex",
+      "dose_g": 12,
+      "yield_g": 230
+    },
+    {
+      "id": "br-803307",
+      "bean_id": "bn-2024-000029",
+      "brewed_at": "2024-03-28",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 222
+    },
+    {
+      "id": "br-203210",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-05-06",
+      "method": "aeropress",
+      "dose_g": 20,
+      "yield_g": 220
+    },
+    {
+      "id": "br-575403",
+      "bean_id": "bn-2021-000013",
+      "brewed_at": "2021-03-15",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 245
+    },
+    {
+      "id": "br-910855",
+      "bean_id": "bn-2020-000012",
+      "brewed_at": "2020-03-11",
+      "method": "espresso",
+      "dose_g": 12,
+      "yield_g": 246
+    },
+    {
+      "id": "br-200949",
+      "bean_id": "bn-2020-000007",
+      "brewed_at": "2020-02-17",
+      "method": "aeropress",
+      "dose_g": 18,
+      "yield_g": 262
+    },
+    {
+      "id": "br-061454",
+      "bean_id": "bn-2020-000033",
+      "brewed_at": "2020-07-02",
+      "method": "v60",
+      "dose_g": 18,
+      "yield_g": 234
+    },
+    {
+      "id": "br-804707",
+      "bean_id": "bn-2021-000021",
+      "brewed_at": "2021-10-20",
+      "method": "v60",
+      "dose_g": 18,
+      "yield_g": 268
+    },
+    {
+      "id": "br-501010",
+      "bean_id": "bn-2022-000019",
+      "brewed_at": "2022-07-30",
+      "method": "v60",
+      "dose_g": 15,
+      "yield_g": 275
+    },
+    {
+      "id": "br-005408",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-31",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 231
+    },
+    {
+      "id": "br-290280",
+      "bean_id": "bn-2020-000005",
+      "brewed_at": "2020-02-19",
+      "method": "espresso",
+      "dose_g": 20,
+      "yield_g": 267
+    },
+    {
+      "id": "br-599618",
+      "bean_id": "bn-2020-000012",
+      "brewed_at": "2020-03-01",
+      "method": "aeropress",
+      "dose_g": 12,
+      "yield_g": 296
+    },
+    {
+      "id": "br-664221",
+      "bean_id": "bn-2020-000006",
+      "brewed_at": "2020-09-16",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 245
+    },
+    {
+      "id": "br-409222",
+      "bean_id": "bn-2022-000019",
+      "brewed_at": "2022-07-20",
+      "method": "french_press",
+      "dose_g": 15,
+      "yield_g": 247
+    },
+    {
+      "id": "br-230491",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-05-15",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 282
+    },
+    {
+      "id": "br-093340",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-10",
+      "method": "espresso",
+      "dose_g": 20,
+      "yield_g": 267
+    },
+    {
+      "id": "br-060135",
+      "bean_id": "bn-2024-000028",
+      "brewed_at": "2024-01-27",
+      "method": "chemex",
+      "dose_g": 12,
+      "yield_g": 310
+    },
+    {
+      "id": "br-690442",
+      "bean_id": "bn-2020-000031",
+      "brewed_at": "2020-02-10",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 217
+    },
+    {
+      "id": "br-706939",
+      "bean_id": "bn-2022-000022",
+      "brewed_at": "2022-04-20",
+      "method": "french_press",
+      "dose_g": 18,
+      "yield_g": 285
+    },
+    {
+      "id": "br-412853",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-02-15",
+      "method": "aeropress",
+      "dose_g": 15,
+      "yield_g": 209
+    },
+    {
+      "id": "br-025897",
+      "bean_id": "bn-2021-000000",
+      "brewed_at": "2021-05-29",
+      "method": "espresso",
+      "dose_g": 12,
+      "yield_g": 229
+    },
+    {
+      "id": "br-845038",
+      "bean_id": "bn-2020-000005",
+      "brewed_at": "2020-02-24",
+      "method": "espresso",
+      "dose_g": 20,
+      "yield_g": 306
+    },
+    {
+      "id": "br-775397",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-23",
+      "method": "espresso",
+      "dose_g": 20,
+      "yield_g": 290
+    },
+    {
+      "id": "br-129545",
+      "bean_id": "bn-2021-000024",
+      "brewed_at": "2021-02-26",
+      "method": "espresso",
+      "dose_g": 20,
+      "yield_g": 284
+    },
+    {
+      "id": "br-117262",
+      "bean_id": "bn-2021-000003",
+      "brewed_at": "2021-07-24",
+      "method": "chemex",
+      "dose_g": 12,
+      "yield_g": 224
+    },
+    {
+      "id": "br-629614",
+      "bean_id": "bn-2022-000019",
+      "brewed_at": "2022-08-01",
+      "method": "espresso",
+      "dose_g": 15,
+      "yield_g": 222
+    },
+    {
+      "id": "br-228896",
+      "bean_id": "bn-2020-000007",
+      "brewed_at": "2020-03-07",
+      "method": "chemex",
+      "dose_g": 18,
+      "yield_g": 283
+    },
+    {
+      "id": "br-619869",
+      "bean_id": "bn-2020-000007",
+      "brewed_at": "2020-02-14",
+      "method": "aeropress",
+      "dose_g": 18,
+      "yield_g": 271
+    },
+    {
+      "id": "br-562583",
+      "bean_id": "bn-2020-000031",
+      "brewed_at": "2020-02-12",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 217
+    },
+    {
+      "id": "br-509946",
+      "bean_id": "bn-2022-000009",
+      "brewed_at": "2022-02-01",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 319
+    },
+    {
+      "id": "br-385090",
+      "bean_id": "bn-2021-000003",
+      "brewed_at": "2021-07-18",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 261
+    },
+    {
+      "id": "br-980375",
+      "bean_id": "bn-2020-000005",
+      "brewed_at": "2020-02-18",
+      "method": "chemex",
+      "dose_g": 20,
+      "yield_g": 283
+    },
+    {
+      "id": "br-801578",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-09-01",
+      "method": "french_press",
+      "dose_g": 15,
+      "yield_g": 206
+    },
+    {
+      "id": "br-201736",
+      "bean_id": "bn-2025-000001",
+      "brewed_at": "2025-01-22",
+      "method": "v60",
+      "dose_g": 15,
+      "yield_g": 226
+    },
+    {
+      "id": "br-392648",
+      "bean_id": "bn-2020-000031",
+      "brewed_at": "2020-01-30",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 213
+    },
+    {
+      "id": "br-627977",
+      "bean_id": "bn-2022-000022",
+      "brewed_at": "2022-04-09",
+      "method": "espresso",
+      "dose_g": 18,
+      "yield_g": 270
+    },
+    {
+      "id": "br-732817",
+      "bean_id": "bn-2024-000028",
+      "brewed_at": "2024-01-28",
+      "method": "chemex",
+      "dose_g": 12,
+      "yield_g": 246
+    },
+    {
+      "id": "br-161549",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-03",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 257
+    },
+    {
+      "id": "br-690566",
+      "bean_id": "bn-2020-000012",
+      "brewed_at": "2020-02-29",
+      "method": "french_press",
+      "dose_g": 12,
+      "yield_g": 297
+    },
+    {
+      "id": "br-157367",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-01-31",
+      "method": "espresso",
+      "dose_g": 15,
+      "yield_g": 233
+    },
+    {
+      "id": "br-616141",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-08-25",
+      "method": "french_press",
+      "dose_g": 15,
+      "yield_g": 223
+    },
+    {
+      "id": "br-761214",
+      "bean_id": "bn-2021-000020",
+      "brewed_at": "2021-01-16",
+      "method": "aeropress",
+      "dose_g": 12,
+      "yield_g": 259
+    },
+    {
+      "id": "br-031668",
+      "bean_id": "bn-2020-000031",
+      "brewed_at": "2020-02-05",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 231
+    },
+    {
+      "id": "br-537970",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-08-11",
+      "method": "aeropress",
+      "dose_g": 15,
+      "yield_g": 294
+    },
+    {
+      "id": "br-686690",
+      "bean_id": "bn-2022-000026",
+      "brewed_at": "2022-04-10",
+      "method": "v60",
+      "dose_g": 20,
+      "yield_g": 282
+    },
+    {
+      "id": "br-777418",
+      "bean_id": "bn-2020-000006",
+      "brewed_at": "2020-08-25",
+      "method": "french_press",
+      "dose_g": 15,
+      "yield_g": 301
+    },
+    {
+      "id": "br-523260",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-02-24",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 280
+    },
+    {
+      "id": "br-859778",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-08-22",
+      "method": "v60",
+      "dose_g": 15,
+      "yield_g": 214
+    },
+    {
+      "id": "br-372117",
+      "bean_id": "bn-2024-000032",
+      "brewed_at": "2024-10-11",
+      "method": "aeropress",
+      "dose_g": 20,
+      "yield_g": 203
+    },
+    {
+      "id": "br-715051",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-04-29",
+      "method": "v60",
+      "dose_g": 20,
+      "yield_g": 245
+    },
+    {
+      "id": "br-387644",
+      "bean_id": "bn-2020-000011",
+      "brewed_at": "2020-05-17",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 263
+    },
+    {
+      "id": "br-001610",
+      "bean_id": "bn-2020-000011",
+      "brewed_at": "2020-05-26",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 248
+    },
+    {
+      "id": "br-969222",
+      "bean_id": "bn-2024-000017",
+      "brewed_at": "2024-02-11",
+      "method": "espresso",
+      "dose_g": 18,
+      "yield_g": 207
+    },
+    {
+      "id": "br-840409",
+      "bean_id": "bn-2025-000010",
+      "brewed_at": "2025-08-09",
+      "method": "espresso",
+      "dose_g": 12,
+      "yield_g": 201
+    },
+    {
+      "id": "br-536064",
+      "bean_id": "bn-2021-000013",
+      "brewed_at": "2021-02-24",
+      "method": "aeropress",
+      "dose_g": 20,
+      "yield_g": 267
+    },
+    {
+      "id": "br-311081",
+      "bean_id": "bn-2021-000014",
+      "brewed_at": "2021-01-15",
+      "method": "aeropress",
+      "dose_g": 15,
+      "yield_g": 311
+    },
+    {
+      "id": "br-399089",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-05-12",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 250
+    },
+    {
+      "id": "br-526251",
+      "bean_id": "bn-2023-000023",
+      "brewed_at": "2023-07-07",
+      "method": "aeropress",
+      "dose_g": 20,
+      "yield_g": 219
+    },
+    {
+      "id": "br-801951",
+      "bean_id": "bn-2021-000024",
+      "brewed_at": "2021-03-10",
+      "method": "chemex",
+      "dose_g": 20,
+      "yield_g": 285
+    },
+    {
+      "id": "br-795413",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-02-24",
+      "method": "espresso",
+      "dose_g": 15,
+      "yield_g": 303
+    },
+    {
+      "id": "br-243602",
+      "bean_id": "bn-2021-000014",
+      "brewed_at": "2021-02-04",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 200
+    },
+    {
+      "id": "br-170223",
+      "bean_id": "bn-2020-000007",
+      "brewed_at": "2020-03-09",
+      "method": "espresso",
+      "dose_g": 18,
+      "yield_g": 249
+    },
+    {
+      "id": "br-794465",
+      "bean_id": "bn-2021-000020",
+      "brewed_at": "2021-01-06",
+      "method": "french_press",
+      "dose_g": 12,
+      "yield_g": 233
+    },
+    {
+      "id": "br-757338",
+      "bean_id": "bn-2020-000025",
+      "brewed_at": "2020-08-12",
+      "method": "v60",
+      "dose_g": 15,
+      "yield_g": 207
+    },
+    {
+      "id": "br-174377",
+      "bean_id": "bn-2021-000021",
+      "brewed_at": "2021-10-13",
+      "method": "french_press",
+      "dose_g": 18,
+      "yield_g": 252
+    },
+    {
+      "id": "br-544164",
+      "bean_id": "bn-2022-000026",
+      "brewed_at": "2022-04-03",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 275
+    },
+    {
+      "id": "br-351712",
+      "bean_id": "bn-2020-000005",
+      "brewed_at": "2020-02-21",
+      "method": "chemex",
+      "dose_g": 20,
+      "yield_g": 245
+    },
+    {
+      "id": "br-900559",
+      "bean_id": "bn-2024-000008",
+      "brewed_at": "2024-02-20",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 277
+    },
+    {
+      "id": "br-225409",
+      "bean_id": "bn-2025-000015",
+      "brewed_at": "2025-04-27",
+      "method": "french_press",
+      "dose_g": 20,
+      "yield_g": 217
+    },
+    {
+      "id": "br-310962",
+      "bean_id": "bn-2024-000028",
+      "brewed_at": "2024-01-22",
+      "method": "french_press",
+      "dose_g": 12,
+      "yield_g": 293
+    },
+    {
+      "id": "br-669959",
+      "bean_id": "bn-2021-000020",
+      "brewed_at": "2021-01-06",
+      "method": "v60",
+      "dose_g": 12,
+      "yield_g": 216
+    },
+    {
+      "id": "br-863671",
+      "bean_id": "bn-2022-000019",
+      "brewed_at": "2022-07-10",
+      "method": "chemex",
+      "dose_g": 15,
+      "yield_g": 260
+    },
+    {
+      "id": "br-320755",
+      "bean_id": "bn-2020-000006",
+      "brewed_at": "2020-09-15",
+      "method": "aeropress",
+      "dose_g": 15,
+      "yield_g": 268
+    },
+    {
+      "id": "br-084988",
+      "bean_id": "bn-2020-000006",
+      "brewed_at": "2020-09-04",
+      "method": "aeropress",
+      "dose_g": 15,
+      "yield_g": 281
+    },
+    {
+      "id": "br-462308",
+      "bean_id": "bn-2024-000028",
+      "brewed_at": "2024-02-01",
+      "method": "aeropress",
+      "dose_g": 12,
+      "yield_g": 257
+    }
+  ],
+  "tasting_logs": [],
+  "tags": []
+}

@@ -1,0 +1,150 @@
+{
+  "source": "vera",
+  "version": 1,
+  "plants": [
+    {
+      "name": "Plant 0",
+      "species": "Pothos",
+      "room": "Office",
+      "interval_days": 5,
+      "last_watered": "2019-07-23",
+      "notes": "xxxxxxxxxx"
+    },
+    {
+      "name": "Plant 1",
+      "species": "Pothos",
+      "room": "Office",
+      "interval_days": 5,
+      "last_watered": "2021-05-01",
+      "notes": "xxxxxxx"
+    },
+    {
+      "name": "Plant 2",
+      "species": "Snake Plant",
+      "room": "Kitchen",
+      "interval_days": 14,
+      "last_watered": "2022-01-23",
+      "notes": "xxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 3",
+      "species": "Pothos",
+      "room": "Office",
+      "interval_days": 5,
+      "last_watered": "2024-12-08",
+      "notes": "xxxxxxxxxx"
+    },
+    {
+      "name": "Plant 4",
+      "species": "ZZ Plant",
+      "room": "Living Room",
+      "interval_days": 10,
+      "last_watered": "2022-11-27",
+      "notes": "xxxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 5",
+      "species": "Monstera",
+      "room": "Kitchen",
+      "interval_days": 14,
+      "last_watered": "2019-06-11",
+      "notes": "xxxxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 6",
+      "species": "Snake Plant",
+      "room": "Bedroom",
+      "interval_days": 14,
+      "last_watered": "2020-05-12",
+      "notes": "xxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 7",
+      "species": "Snake Plant",
+      "room": "Kitchen",
+      "interval_days": 7,
+      "last_watered": "2022-07-25",
+      "notes": "xxxxxxxxx"
+    },
+    {
+      "name": "Plant 8",
+      "species": "Monstera",
+      "room": "Office",
+      "interval_days": 7,
+      "last_watered": "2021-03-18",
+      "notes": "xxxxx"
+    },
+    {
+      "name": "Plant 9",
+      "species": "Snake Plant",
+      "room": "Bedroom",
+      "interval_days": 10,
+      "last_watered": "2021-12-22",
+      "notes": "xxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 10",
+      "species": "Pothos",
+      "room": "Living Room",
+      "interval_days": 10,
+      "last_watered": "2023-05-12",
+      "notes": ""
+    },
+    {
+      "name": "Plant 11",
+      "species": "ZZ Plant",
+      "room": "Bedroom",
+      "interval_days": 10,
+      "last_watered": "2025-01-02",
+      "notes": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 12",
+      "species": "Monstera",
+      "room": "Bedroom",
+      "interval_days": 10,
+      "last_watered": "2019-01-11",
+      "notes": "xxxxxxx"
+    },
+    {
+      "name": "Plant 13",
+      "species": "ZZ Plant",
+      "room": "Living Room",
+      "interval_days": 5,
+      "last_watered": "2020-11-02",
+      "notes": "xxx"
+    },
+    {
+      "name": "Plant 14",
+      "species": "Monstera",
+      "room": "Bedroom",
+      "interval_days": 10,
+      "last_watered": "2021-11-23",
+      "notes": "xxxxx"
+    },
+    {
+      "name": "Plant 15",
+      "species": "Pothos",
+      "room": "Kitchen",
+      "interval_days": 5,
+      "last_watered": "2022-06-09",
+      "notes": "xxxx"
+    },
+    {
+      "name": "Plant 16",
+      "species": "ZZ Plant",
+      "room": "Kitchen",
+      "interval_days": 5,
+      "last_watered": "2021-11-06",
+      "notes": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Plant 17",
+      "species": "Snake Plant",
+      "room": "Living Room",
+      "interval_days": 7,
+      "last_watered": "2019-08-19",
+      "notes": "xxxxxxxxxxxxx"
+    }
+  ]
+}

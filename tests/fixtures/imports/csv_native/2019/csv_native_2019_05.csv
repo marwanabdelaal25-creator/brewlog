@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,snake-plant,Kitchen,5,2022-12-16,
+Plant 1,snake-plant,Kitchen,10,2024-03-03,xxxxxxxxxxxxxxxxxx
+Plant 2,snake-plant,Bedroom,7,2024-01-16,xxxxxxx
+Plant 3,zz-plant,Living Room,7,2025-09-04,xxxxxxxxx
+Plant 4,pothos,Kitchen,10,2024-03-07,xxx
+Plant 5,zz-plant,Living Room,10,2021-07-10,xxxxxxxxxxxxxxxxxxx
+Plant 6,pothos,Office,7,2024-10-25,xxxxxxxxxxxxxxxxxxx
+Plant 7,zz-plant,Living Room,10,2022-04-09,xxxxxxxxxxxxxxxx
+Plant 8,pothos,Office,7,2023-03-12,xxxxxx
+Plant 9,pothos,Kitchen,14,2021-04-26,xxxxxxxxxx
+Plant 10,pothos,Living Room,14,2021-06-16,xxxxxxxxxxxxxxxxx
+Plant 11,snake-plant,Kitchen,5,2025-04-06,xxxxxxxxxxxxxxxxx
+Plant 12,snake-plant,Bedroom,7,2025-04-25,x
+Plant 13,snake-plant,Office,7,2021-11-22,xxxxxxx
+Plant 14,zz-plant,Office,10,2020-03-18,xxxxxxxx
+Plant 15,monstera,Office,7,2023-12-19,xxxxxxxxxxxxxx
+Plant 16,zz-plant,Office,10,2021-01-10,xxxxxxxxxxxxxxxxx
+Plant 17,monstera,Kitchen,14,2023-01-07,xxxxxxxxxxxx
+Plant 18,snake-plant,Kitchen,7,2019-11-15,xxxxxxxxxxxx
+Plant 19,zz-plant,Kitchen,7,2023-05-02,xxx
+Plant 20,monstera,Living Room,7,2025-08-03,xxxxxxxx
+Plant 21,monstera,Office,7,2020-07-26,xxxxxxxxxxxxxxx
+Plant 22,monstera,Bedroom,5,2019-05-21,xxxxx
+Plant 23,monstera,Bedroom,5,2019-01-20,xxxxxx
+Plant 24,pothos,Office,10,2024-10-26,xxxxxxxxxxxxxx
+Plant 25,monstera,Office,14,2023-11-02,xxxxx
+Plant 26,pothos,Living Room,14,2025-06-27,xxxxxxxxxxxxxxxxxxxx
+Plant 27,snake-plant,Office,7,2019-04-13,xxxxxxxx
+Plant 28,pothos,Kitchen,5,2022-05-05,xxxxxxx
+Plant 29,monstera,Office,5,2025-06-10,xxxxxxxxxxxx
+Plant 30,zz-plant,Kitchen,14,2023-04-16,xxxxxxx
+Plant 31,monstera,Kitchen,10,2025-09-22,xxxxxxxxxxxxxxx
+Plant 32,zz-plant,Office,7,2024-03-28,
+Plant 33,snake-plant,Office,5,2023-10-20,xxxxxxxxx
+Plant 34,snake-plant,Office,7,2025-06-08,xxxxxxxxxxxxxxxxxx
+Plant 35,monstera,Living Room,10,2019-03-13,xxxxxxxxxxxxxxxxx
+Plant 36,snake-plant,Kitchen,14,2025-03-18,xxxxxxxxxxx
+Plant 37,monstera,Living Room,14,2023-05-20,xxx

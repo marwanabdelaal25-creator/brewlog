@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,pothos,Office,10,2022-02-18,xxxxxxxxxxxxxxx
+Plant 1,snake-plant,Bedroom,5,2021-06-05,xxxxxxxxxxxxxxx
+Plant 2,snake-plant,Kitchen,7,2023-07-27,xxxxxxxxxxxxxxxxxx
+Plant 3,monstera,Bedroom,7,2024-05-27,xxxxxxxxxxx
+Plant 4,monstera,Office,5,2021-04-02,xxxxxxxxxxxxxxx
+Plant 5,snake-plant,Office,7,2019-05-14,xxxxxxxxx
+Plant 6,snake-plant,Kitchen,5,2022-06-21,xxxxxxxxxx
+Plant 7,snake-plant,Kitchen,5,2021-07-12,xxxxxxxxxxxxxxxxxx
+Plant 8,monstera,Living Room,10,2022-02-21,xxxx
+Plant 9,pothos,Living Room,5,2021-02-16,xxx
+Plant 10,snake-plant,Bedroom,10,2022-11-16,xxxxxxxxxxxxxxxxxxx
+Plant 11,snake-plant,Living Room,5,2024-09-12,xxxxxxxxxxxxxxxxxxxx
+Plant 12,zz-plant,Living Room,5,2022-01-24,xxxxxxxxxxx
+Plant 13,snake-plant,Kitchen,5,2025-04-02,xx
+Plant 14,monstera,Living Room,10,2024-03-15,xxxxxxxxx
+Plant 15,monstera,Living Room,14,2020-11-15,xxxxxxxx
+Plant 16,pothos,Living Room,7,2020-04-28,xxxxxxxxx
+Plant 17,zz-plant,Bedroom,7,2019-09-17,xxxxxxxxxxxxxxxxxx
+Plant 18,snake-plant,Office,5,2020-06-17,xxxxxxx
+Plant 19,monstera,Bedroom,7,2019-05-02,xxxxxxxxxxx
+Plant 20,zz-plant,Office,14,2025-01-28,xxxxxxxxxxxxxxxxxxx
+Plant 21,snake-plant,Living Room,5,2022-11-23,xxxxxxx
+Plant 22,monstera,Kitchen,10,2020-05-06,xxxxxxxxxxxxxxxxxxx
+Plant 23,monstera,Kitchen,14,2022-06-13,xxxxxxxx
+Plant 24,snake-plant,Bedroom,10,2020-04-08,xxxxxxxxx
+Plant 25,zz-plant,Living Room,14,2019-06-26,xxxxxxxxx
+Plant 26,monstera,Living Room,10,2023-05-03,xxxx
+Plant 27,snake-plant,Living Room,14,2024-12-13,xxxxxxxxxxxx
+Plant 28,snake-plant,Kitchen,10,2021-10-07,xxxxxxxxxxx
+Plant 29,monstera,Office,10,2019-11-16,xx
+Plant 30,zz-plant,Office,10,2022-09-01,x
+Plant 31,monstera,Bedroom,14,2024-10-14,xxxxxx
+Plant 32,snake-plant,Office,14,2021-11-06,xxxxx
+Plant 33,zz-plant,Bedroom,7,2024-01-03,xxxxxxxxxxxxxxxxxxx
+Plant 34,zz-plant,Living Room,7,2023-10-22,xxxxxxxxxxxxxxxxxxx
+Plant 35,snake-plant,Living Room,10,2023-06-13,xxx
+Plant 36,snake-plant,Office,5,2025-12-10,xxxxxxxxx
+Plant 37,zz-plant,Office,10,2020-12-07,xxxxxxxxxx
