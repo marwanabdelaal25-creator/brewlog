@@ -116,3 +116,4 @@ bean = storage.create_bean(Bean.create("New Friend", brew_interval_days=7))
 
 Public API surface is in `brewlog.__init__` — beans, brew, schedules, parsers,
 validators, errors.
+- faq 0
