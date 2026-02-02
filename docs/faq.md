@@ -118,3 +118,4 @@ Public API surface is in `brewlog.__init__` — beans, brew, schedules, parsers,
 validators, errors.
 - faq 0
 - faq 1
+- faq 2
